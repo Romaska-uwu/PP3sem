@@ -1,0 +1,12 @@
+C:\Users\bubblechuk\source\repos\Patterns06\Lab6Lib\bin\Debug\Lab6Lib.dll
+C:\Users\bubblechuk\source\repos\Patterns06\Lab6Lib\bin\Debug\Lab6Lib.pdb
+C:\Users\bubblechuk\source\repos\Patterns06\Lab6Lib\obj\Debug\Lab6Lib.csproj.AssemblyReference.cache
+C:\Users\bubblechuk\source\repos\Patterns06\Lab6Lib\obj\Debug\Lab6Lib.csproj.CoreCompileInputs.cache
+C:\Users\bubblechuk\source\repos\Patterns06\Lab6Lib\obj\Debug\Lab6Lib.dll
+C:\Users\bubblechuk\source\repos\Patterns06\Lab6Lib\obj\Debug\Lab6Lib.pdb
+D:\3semestr\PP\Patterns06\Lab6Lib\bin\Debug\Lab6Lib.dll
+D:\3semestr\PP\Patterns06\Lab6Lib\bin\Debug\Lab6Lib.pdb
+D:\3semestr\PP\Patterns06\Lab6Lib\obj\Debug\Lab6Lib.csproj.AssemblyReference.cache
+D:\3semestr\PP\Patterns06\Lab6Lib\obj\Debug\Lab6Lib.csproj.CoreCompileInputs.cache
+D:\3semestr\PP\Patterns06\Lab6Lib\obj\Debug\Lab6Lib.dll
+D:\3semestr\PP\Patterns06\Lab6Lib\obj\Debug\Lab6Lib.pdb
